@@ -4,6 +4,8 @@ public class hah {
             System.out.println(arg);
             System.out.println(arg);
             System.out.println(arg);
+            System.out.println(arg);
+            System.out.println(arg);
         }
     }
 }
